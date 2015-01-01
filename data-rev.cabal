@@ -1,5 +1,5 @@
 name:                data-rev
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            A typeclass for reversing order of contents.
 -- description:         
 homepage:            https://github.com/jxv/data-rev
