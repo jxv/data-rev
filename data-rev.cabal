@@ -15,7 +15,8 @@ cabal-version:       >=1.10
 
 library
   exposed-modules:     Data.Rev
-  -- other-modules:       
+  other-modules:       Data.Rev.Class
+                       Data.Rev.Tuple
   other-extensions:    FlexibleInstances
   build-depends:       base >=4.7 && <4.8,
                        vector,
